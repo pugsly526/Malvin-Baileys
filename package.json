@@ -17,7 +17,7 @@
     "url": "git@github.com:XdKing2/@sk/Malvin-Baileys.git"
   },
   "license": "MIT",
-  "author": "MR MALVIN",
+  "author": "SANG LEE",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
